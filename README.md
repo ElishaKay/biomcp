@@ -28,6 +28,10 @@ get compact, evidence-oriented results across live public data plus local study 
   enrichment and `biomcp batch` for up to 10 focused `get` calls in one
   command.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/genomoncology-biomcp).
+
 ## Installation
 
 ### PyPI tool install
